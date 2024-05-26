@@ -6,6 +6,6 @@
 .navbar{
     display: flex;
     flex-direction: row;
-    background-color: aqua;
+    background-color: yellow;
     justify-content: space-evenly;
 }
